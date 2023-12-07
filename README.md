@@ -4,5 +4,5 @@
 
 - `mkdir` - `md` : qovluq yaratmaq ucun istifade olunur
 - `cd` - current directory
-- `cd` .. bir ust qovluq
+- `cd` - bir ust qovluq
 - 
